@@ -34,8 +34,8 @@ namespace tutorial.Controllers
         {
         }
 
-        // DELETE api/<controller>/5
-        public void Delete(int id)
+        // test api/<controller>/5
+        public void test(int id)
         {
         }
     }
